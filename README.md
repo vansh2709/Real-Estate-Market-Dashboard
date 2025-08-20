@@ -1,3 +1,4 @@
+![Real Estate Dashboard](https://github.com/user-attachments/assets/8d6d2101-3104-4a0d-8db2-9b74c98522e8)
 # 🏡 Real Estate Dashboard
 The **Real Estate Dashboard** is an interactive analytics tool built to help real estate professionals manage property listings and track market performance in real time.
 
